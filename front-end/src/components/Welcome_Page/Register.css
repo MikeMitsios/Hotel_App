@@ -1,0 +1,30 @@
+.MuiTypography-alignCenter.title_class{
+    font-family: 'Lobster', cursive;
+}
+
+.MuiTypography-alignCenter.reg_class{
+    /* font-family: 'Lobster', cursive; */
+    color: darkorange;
+}
+
+.title_padding {
+    padding : 1%;
+    margin-right:7%;
+    margin-top: 2%;
+}
+
+.MuiGrid-container.mrg_box{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.MuiGrid-container.mrg_box2{
+    margin-top: 0.3%;
+    margin-bottom: 0.3%;
+}
+
+a:-webkit-any-link {
+    color:inherit;
+    text-decoration: none;
+ }
+
